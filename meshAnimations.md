@@ -2,12 +2,11 @@
 layout: null
 permalink: /meshAnimations/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mesh Animations | Will Thacher</title>
+    <title>Mesh Generator trained with RL | Will Thacher</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
     <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -54,7 +53,7 @@ permalink: /meshAnimations/
     <a href="/" class="back-link">← Back to Home</a>
 
     <h1>Mesh Animations</h1>
-    <p>Examples of rollouts of mesh generator trained with reinforcement learning.</p>
+    <p>Examples of rollouts:</p>
 
     <div class="video-stack">
         <div class="video-item">
