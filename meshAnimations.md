@@ -54,7 +54,7 @@ permalink: /meshAnimations/
     <a href="/" class="back-link">← Back to Home</a>
 
     <h1>Mesh Animations</h1>
-    <p>A collection of animations related to [Insert specific topic, e.g., Finite Element Analysis].</p>
+    <p>Examples of rollouts of mesh generator trained with reinforcement learning.</p>
 
     <div class="video-stack">
         <div class="video-item">
