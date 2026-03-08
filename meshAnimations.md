@@ -29,28 +29,27 @@ permalink: /meshAnimations/
     <video autoplay loop muted playsinline>
       <source src="{{ '/ezgif-31c1391bce9604d1.mp4' | relative_url }}" type="video/mp4">
     </video>
-    <p><em>Description of video 1</em></p>
   </div>
 
   <div class="video-item">
     <video autoplay loop muted playsinline>
       <source src="{{ '/ezgif-343fb225505bec96.mp4' | relative_url }}" type="video/mp4">
     </video>
-    <p><em>Description of video 2</em></p>
+    
   </div>
 
   <div class="video-item">
     <video autoplay loop muted playsinline>
       <source src="{{ '/ezgif-36fe03ee80e9f410.mp4' | relative_url }}" type="video/mp4">
     </video>
-    <p><em>Description of video 3</em></p>
+    
   </div>
 
   <div class="video-item">
     <video autoplay loop muted playsinline>
       <source src="{{ '/ezgif-3d4ea05c9a303c7d.mp4' | relative_url }}" type="video/mp4">
     </video>
-    <p><em>Description of video 4</em></p>
+    
   </div>
 
 </div>
